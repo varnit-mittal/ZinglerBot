@@ -202,11 +202,11 @@ class HotelBooking(webdriver.Chrome):
         return l1
         # return (hotel_name,hotel_price,hotel_link)
     
-    @staticmethod
-    def table_formation(l):
-        table=PrettyTable(["Hotel Name",'Hotel Price'])
-        table.add_rows(l)
-        return table
+    # @staticmethod
+    # def table_formation(l):
+    #     table=PrettyTable(["Hotel Name",'Hotel Price'])
+    #     table.add_rows(l)
+    #     return table
 
 
 # bot=HotelBooking()

@@ -28,7 +28,6 @@ class trading_main:
         elif choice == 2:
             return Alpaca.account()
         elif choice == 3:
-            print("Closing all positions ...")
             return Alpaca.closeAllPositions()
         elif choice == 4:
             return trading_main.stock_subscribe()

@@ -80,3 +80,4 @@ class Alpaca:
     @classmethod
     def profit(cls):
         return (int(Alpaca.getAccount()['portfolio_value'])-int(Alpaca.getAccount()['cash']))
+# Alpaca.createMarketOrder("APPL","buy",2,"market","gtc")
