@@ -74,7 +74,7 @@ Go to the project directory
   cd web_scrapping_hacknite
 ```
 
-Install dependencies
+## Install Dependencies
 Install chrome webdriver and make changes in the train and hotel backend in os.PATH
 
 ```bash
