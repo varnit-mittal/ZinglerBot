@@ -19,16 +19,6 @@ This Web App is a a type of bot which has three features:
 3) Email read is created with the help of Gmail RESTful API and BeautifulSoup (bs4) library in python. This provides you with top 5 to 7 gmails from your account for which .pickle file is created.
 
 
-## Authors
-
-- [@varnit-mittal](https://github.com/varnit-mittal)
-- [@ap5967ap](https://github.com/ap5967ap)
-
-Linkedin:
-
-https://www.linkedin.com/in/varnit-mittal-44a904254/
-
-https://www.linkedin.com/in/aditya-priyadarshi-a2375b256
 
 
 
@@ -60,9 +50,6 @@ google RESTful API
 
 
 
-## Demo
-
-https://youtu.be/ppb5AKOUUYE
 
 
 ## Deployment
@@ -92,51 +79,7 @@ Install dependencies
 ```bash
   chrome webdriver and make changes in the train and hotel backend in os.PATH
 
-  pip install pandas
-
-  pip install numpy
-
-  pip install datetime
-
-  pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
-
-  pip install requests
-
-  pip install selenium
-
-  pip install bs4
-
-  pip install streamlit
-
-  pip install tradingview_ta
-
-  pip install alpaca_trade_api
-
-  pip install json
-
-  pip install tensorflow
-
-  pip install tkinter
-
-  pip install prettytable
-
-  pip install unicorn_binance_websocket_api
-
-  pip install mathplotlib
-
-  pip install textwrap
-
-  pip install undetected-chromedriver
-
-  pip install streamlit-lottie
-
-  pip install streamlit-extras
-
-  pip install streamlit-option-menu
-
-  pip install email
-
-  pip install pickle
+  pip install -r requirements.txt
   
 ```
 
@@ -146,7 +89,20 @@ Start the server
   streamlit run frontend.py
 ```
 
+## Demo
 
+https://youtu.be/ppb5AKOUUYE
+
+## Authors
+
+- [@varnit-mittal](https://github.com/varnit-mittal)
+- [@ap5967ap](https://github.com/ap5967ap)
+
+Linkedin:
+
+https://www.linkedin.com/in/varnit-mittal-44a904254/
+
+https://www.linkedin.com/in/aditya-priyadarshi-a2375b256
 
 
 ## License

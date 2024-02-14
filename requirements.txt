@@ -1,0 +1,23 @@
+pandas
+numpy
+datetime
+--upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+requests
+selenium
+bs4
+streamlit
+tradingview_ta
+alpaca_trade_api
+json
+tensorflow
+tkinter
+prettytable
+unicorn_binance_websocket_api
+mathplotlib
+textwrap
+undetected-chromedriver
+streamlit-lottie
+streamlit-extras
+streamlit-option-menu
+email
+pickle
