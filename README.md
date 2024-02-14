@@ -75,9 +75,9 @@ Go to the project directory
 ```
 
 Install dependencies
+Install chrome webdriver and make changes in the train and hotel backend in os.PATH
 
 ```bash
-  chrome webdriver and make changes in the train and hotel backend in os.PATH
   pip install -r requirements.txt
 ```
 
