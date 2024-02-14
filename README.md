@@ -52,11 +52,7 @@ google RESTful API
 
 
 
-## Deployment
 
-To deploy this project 
-
-You can deploy using streamlit library
   
 
 
@@ -87,6 +83,11 @@ Start the server
   streamlit run frontend.py
 ```
 
+## Deployment
+
+To deploy this project 
+
+You can deploy using streamlit library
 ## Demo
 
 https://youtu.be/ppb5AKOUUYE
