@@ -78,9 +78,7 @@ Install dependencies
 
 ```bash
   chrome webdriver and make changes in the train and hotel backend in os.PATH
-
   pip install -r requirements.txt
-  
 ```
 
 Start the server
